@@ -26,25 +26,24 @@ I became more interested in data and did a thesis related to Machine Learning , 
 
 3. SQL
 - Create restaurant mini databases
--   The purpose is to use SQL to create database and query data.
--   Create a restaurant database consisting of 5 tables (1 fact table, 4 dimension table)
--   Analysis of monthly sales Analyze each branch's sales Popular menus for each branch sales per channel, etc.
+  -   The purpose is to use SQL to create database and query data.
+  -   Create a restaurant database consisting of 5 tables (1 fact table, 4 dimension table)
+  -   Analysis of monthly sales Analyze each branch's sales Popular menus for each branch sales per channel, etc.
 
 4. Excel and Google Sheet
 - The_Secret_Sauce_analysis
-url : https://knotty-nutmeg-644.notion.site/The-Secret-Sauce-Podcast-0b0ce48e705443bdb381aaa0577d51a4
-Propose : analysis Why the secret sauce is a successful poscast ?
-Web Scraping data form the secret sauce chanel on youtube
-Exporatory data with Excel
-Create Chart to answer question
-Mini-Project_ ID Card Parser
-using function REGEXTRACT
-Mini-Project_Convert TH to EN
-REGEXTRACT, vlookup
+  - url : https://knotty-nutmeg-644.notion.site/The-Secret-Sauce-Podcast-0b0ce48e705443bdb381aaa0577d51a4
+  - Propose : analysis Why the secret sauce is a successful poscast ?
+  - Web Scraping data form the secret sauce chanel on youtube
+  - Exporatory data with Excel
+  - Create Chart to answer question
+- Mini-Project_ ID Card Parser
+  - using function REGEXTRACT
+- Mini-Project_Convert TH to EN
+  - REGEXTRACT, vlookup
 5. Poewer BI
-
-Dashboard for Sales of Supermarket Store
-Use Enphaty map to create dashboard (seeing, thinking, doing)
-With 5 chart to show problems and reasons of sales
-Dashboard for Sales of Food Retail
-link : https://app.powerbi.com/view?r=eyJrIjoiNmRiYmIwOWItZDRiOS00N2JmLWE4ZTktNTgzYWNmYjRjMDdiIiwidCI6ImZkMjA2NzE1LTc1MDktNGFlNS05Yjk2LTc2YmI5Nzg4NmE4NCIsImMiOjEwfQ%3D%3D
+- Dashboard for Sales of Supermarket Store
+  - Use Enphaty map to create dashboard (seeing, thinking, doing)
+  - With 5 chart to show problems and reasons of sales
+- Dashboard for Sales of Food Retail
+  - link : https://app.powerbi.com/view?r=eyJrIjoiNmRiYmIwOWItZDRiOS00N2JmLWE4ZTktNTgzYWNmYjRjMDdiIiwidCI6ImZkMjA2NzE1LTc1MDktNGFlNS05Yjk2LTc2YmI5Nzg4NmE4NCIsImMiOjEwfQ%3D%3D
