@@ -20,18 +20,18 @@ Basic Chart
 Prediction_and_Genetic_Algorithm (Graduation Project)
 Use python for creating machine learning model with algorithm such as Liner Regression, SVM, Decision Tree, Random Forest, Gaussian Process for predict properties of chemical substances
 Create a Genetic Algorithm to find substance that fit the specify properties.
+
 2. R
+- Mini-project_basic-chat-bot
 
-Mini-project_basic-chat-bot
 3. SQL
+- Create restaurant mini databases
+-   The purpose is to use SQL to create database and query data.
+-   Create a restaurant database consisting of 5 tables (1 fact table, 4 dimension table)
+-   Analysis of monthly sales Analyze each branch's sales Popular menus for each branch sales per channel, etc.
 
-Create restaurant mini databases
-The purpose is to use SQL to create database and query data.
-Create a restaurant database consisting of 5 tables (1 fact table, 4 dimension table)
-Analysis of monthly sales Analyze each branch's sales Popular menus for each branch sales per channel, etc.
 4. Excel and Google Sheet
-
-The_Secret_Sauce_analysis
+- The_Secret_Sauce_analysis
 url : https://knotty-nutmeg-644.notion.site/The-Secret-Sauce-Podcast-0b0ce48e705443bdb381aaa0577d51a4
 Propose : analysis Why the secret sauce is a successful poscast ?
 Web Scraping data form the secret sauce chanel on youtube
