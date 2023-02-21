@@ -1,4 +1,4 @@
-# chat-bot (rules-based)
+# chat-bot (basic-rules based)
 #ordering pizza
 
 print("Welcome to Italian'time Pizza Club")
