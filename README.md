@@ -5,11 +5,11 @@ I am a fourth-year Chemical Engineering student from Faculty of Engineering, Dep
 
 I became more interested in data and did a thesis related to Machine Learning , So I really liked this field and wanted to work in this field a lot.
 
-My Skill and Project :
-1. Python
+## My Skill and Project :
 
-Churn Prediction (Telco_Dataset)
-Machine Learning model using KNN
+1. Python
+- Churn Prediction (Telco_Dataset)
+-- Machine Learning model using KNN
 Normalization data with StandardScaler, OneHotEncoder
 improve model with Cross Validation and GridSearch
 Mini-Project_Analyrtic_Retail (Retail_Dataset)
